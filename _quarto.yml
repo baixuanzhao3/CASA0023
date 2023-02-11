@@ -1,0 +1,23 @@
+project:
+  type: book
+  output-dir:docs
+book:
+  title: "CASA0023 Learning Diary"
+  author: "Baixuan Zhao"
+  date: "2023/1/16"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
