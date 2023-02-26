@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "CASA0023 Learning Diary",
     "section": "",
-    "text": "Preface\nCASA0023 Learning Diary.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "Preface\nCASA0023 Learning Diary\nAuthor: Baixuan Zhao"
   },
   {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "This is the learning diary for CASA0023\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "summary.html",
@@ -26,5 +26,19 @@
     "title": "References",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "chapter1.html",
+    "href": "chapter1.html",
+    "title": "CASA0023 Learning Diary",
+    "section": "",
+    "text": "chapter1"
+  },
+  {
+    "objectID": "Chapter1.html",
+    "href": "Chapter1.html",
+    "title": "2  An Introduction to Remote Sensing",
+    "section": "",
+    "text": "2.0.1 1. Summary\n\n\n2.0.2 2. Application\n\n\n2.0.3 3. Reflection"
   }
 ]

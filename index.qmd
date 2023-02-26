@@ -1,9 +1,5 @@
 # Preface {.unnumbered}
 
-CASA0023 Learning Diary.
+CASA0023 Learning Diary
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```
+Author: Baixuan Zhao
